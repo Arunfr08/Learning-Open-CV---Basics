@@ -5,6 +5,7 @@ It includes experiments in:
 - Drawing shapes and text on images  
 - Performing image transformations (translation, rotation, flipping, cropping)  
 - Resizing images and live video frames
+- Colour spacing, merging, splitting
 
 📚 Built as part of my OpenCV learning journey!
 
